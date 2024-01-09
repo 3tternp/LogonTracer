@@ -1,4 +1,4 @@
-FROM python:3.7.8-slim-buster
+FROM python:3.10-slim-buster
 
 RUN set -ex \
   	\
