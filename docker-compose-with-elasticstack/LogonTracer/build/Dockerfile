@@ -1,4 +1,4 @@
-FROM python:3.12.0-slim
+FROM python:3.14.0rc2-slim
 
 RUN set -ex \
   	\
